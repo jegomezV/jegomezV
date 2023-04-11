@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co/my07Mmy/Aspiring-full-stack-web-developer.png" alt="Banner" style="max-width: 100%;">
-![Banner](https://i.ibb.co/my07Mmy/Aspiring-full-stack-web-developer.png)
+![Banner](https://github.com/jegomezV/jegomezV/blob/master/Aspiring%20full-stack%20web%20developer..png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Juan E. Gómez Valencia.</h1>
 <h3 align="center">A passionate asoiring Full-Stack developer from Colombia.</h3>
