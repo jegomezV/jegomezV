@@ -31,8 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jegomezv&show_icons=true&locale=en" alt="jegomezv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jegomezv&" alt="jegomezv" /></p>
-
-
-<animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" data-target="animated-image.originalLink"><img align="right" alt="Coding" src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" data-canonical-src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" target="_blank">
