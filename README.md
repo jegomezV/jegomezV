@@ -1,4 +1,4 @@
-![Banner](https://github.com/jegomezV/jegomezV/blob/master/Aspiring%20full-stack%20web%20developer..png?raw=true)
+![Banner](https://github.com/jegomezV/jegomezV/blob/master/image.png?raw=true)
 
 <h1 align="center">Hi 👋, Welcome to my repo.</h1>
 <h3 align="center">A passionate aspiring Full-Stack developer from Colombia.</h3>
